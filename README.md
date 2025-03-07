@@ -9,6 +9,13 @@ Learn more about [GitHub Copilot](https://github.com/features/copilot) in our [d
 
 # Providing Feedback
 
+## Uploading Errors
+If you encounter any errors while using GitHub Copilot, please follow these steps to upload them:
+
+1. Capture the error message and any relevant screenshots.
+2. Provide a detailed description of the steps that led to the error.
+3. Submit your error report through our [issue tracker](link-to-issue-tracker) or by creating a new issue in this repository.
+
 You can use this repository to file issues for Copilot Chat and completions in VS Code:
 
 * Up-vote a feature or request a new one.
